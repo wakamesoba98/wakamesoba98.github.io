@@ -2,12 +2,12 @@
     "status": "warn",
     "message": {
         "en": {
-            "title": "SobaCha will end its service on Feb. 13",
-            "body": "SobaCha is scheduled to end its service on February 13, as Twitter will no longer provide free access to the Twitter API."
+            "title": "SobaCha discontinued support on Feb. 13.",
+            "body": "SobaCha discontinued support on Feb. 13. However, Twitter has postponed again the paid Twitter API, so we will provide the app as it is until the free API is discontinued. Please see @TwitterDev for more details on the postponement."
         },
         "ja": {
-            "title": "SobaChaは2/13にサービスを終了します",
-            "body": "Twitter APIの有料化に伴い、SobaChaは2/13にサービスを終了します。なお、当初2/9とされていた有料化はTwitter社により延期されました。"
+            "title": "SobaChaはサポートを終了しました (2/14続報)",
+            "body": "SobaChaは2/13にサポートを終了しました。しかしながら、Twitter社によってTwitter APIの有料化が再々延期されましたので、無料APIの提供が完全に終了するまではアプリをありのままで提供いたします。延期の詳細は @TwitterDev をご覧ください。"
         }
     }
 }
