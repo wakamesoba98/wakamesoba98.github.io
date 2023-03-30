@@ -2,12 +2,12 @@
     "status": "warn",
     "message": {
         "en": {
-            "title": "MateCha discontinued support on Feb. 13.",
-            "body": "MateCha discontinued support on Feb. 13. However, Twitter has postponed again the paid Twitter API, so we will provide the app as it is until the free API is discontinued. Please see @TwitterDev for more details on the postponement."
+            "title": "MateCha will be shutting down on Apr. 30.",
+            "body": "MateCha will be shutting down on April 30 as Twitter will no longer provide free access to the Twitter API. Please continue to follow @TwitterDev as the schedule is subject to change."
         },
         "ja": {
-            "title": "MateChaはサポートを終了しました (2/14続報)",
-            "body": "MateChaは2/13にサポートを終了しました。しかしながら、Twitter社によってTwitter APIの有料化が再々延期されましたので、無料APIの提供が完全に終了するまではアプリをありのままで提供いたします。延期の詳細は @TwitterDev をご覧ください。"
+            "title": "MateChaは4/30前後に停止します",
+            "body": "Twitter社により、4/30を目処に無料APIの提供を終了する旨のアナウンスが行われました。これにより、MateChaの機能は4/30の前後に停止します。スケジュールは変更される可能性があるため、引き続き @TwitterDev をご覧ください。"
         }
     }
 }
