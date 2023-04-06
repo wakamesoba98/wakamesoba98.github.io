@@ -1,13 +1,13 @@
 {
-    "status": "warn",
+    "status": "error",
     "message": {
         "en": {
-            "title": "SobaCha will be shutting down on Apr. 30.",
-            "body": "SobaCha will be shutting down on April 30 as Twitter will no longer provide free access to the Twitter API. Please continue to follow @TwitterDev as the schedule is subject to change."
+            "title": "SobaCha has ended its service",
+            "body": "SobaCha has ended its service due to Twitter suspends the Twitter API. Thank you for using SobaCha."
         },
         "ja": {
-            "title": "SobaChaは4/30前後に停止します",
-            "body": "Twitter社により、4/30を目処に無料APIの提供を終了する旨のアナウンスが行われました。これにより、SobaChaの機能は4/30の前後に停止します。スケジュールは変更される可能性があるため、引き続き @TwitterDev をご覧ください。"
+            "title": "SobaChaはサービスを終了しました",
+            "body": "Twitter社によってAPIキーが凍結されたため、SobaChaはサービスを終了しました。長らくのご愛顧誠にありがとうございました。"
         }
     }
 }
